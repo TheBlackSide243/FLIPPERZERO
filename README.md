@@ -70,3 +70,11 @@ REM "FINAL TEXT"
 
 TO FIND THE NAME IN CHOCOLATEY OF THE APP OPEN THE TERMINAL (ADMIN) AND PUT
 CHOCO FIND "INITIALS OF THE APP TO BE INSTALLED"
+
+
+
+
+
+if the project is good u can offer me a cofee
+
+https://ko-fi.com/theblackside
